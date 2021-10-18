@@ -1,0 +1,11 @@
+header{
+    padding: 10px;
+    background: pink;
+}
+h2{
+    color:red;
+    font-size: 34px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+}
